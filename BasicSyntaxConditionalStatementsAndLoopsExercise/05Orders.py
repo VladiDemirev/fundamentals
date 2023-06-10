@@ -20,7 +20,3 @@ for _ in range(orders):
 
 print(f"Total: ${total_price:.2f}")
 
-
-
-
-
