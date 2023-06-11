@@ -19,11 +19,3 @@ while budget > cost_bread:
 
 print(f"You made {bread_counter} loaves of Easter bread! Now you have"
       f" {eggs_counter} eggs and {budget:.2f}BGN left.")
-
-
-
-
-
-
-
-
