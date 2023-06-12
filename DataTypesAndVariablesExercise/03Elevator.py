@@ -8,6 +8,7 @@ num_courses = ceil(num_people / capacity)
 print(num_courses)
 
 #   OPTION 2
+
 # num_people = int(input())
 # capacity = int(input())
 #
