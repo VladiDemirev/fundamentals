@@ -8,3 +8,4 @@ elif 18 < age <= 21:
     print("drink beer")
 else:
     print("drink whisky")
+
